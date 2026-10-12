@@ -5,7 +5,7 @@ public class HelloJenkins {
 
         int a = 10;
         int b = 20;
-        System.out.println("Sum is: " + (a + b));
+        System.out.println("Sum is: " + (a + b))
 
         for (int i = 0; i <= 10; i++) {
             System.out.println(i);
